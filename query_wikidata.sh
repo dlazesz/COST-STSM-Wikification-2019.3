@@ -1,0 +1,1 @@
+curl -X POST https://query.wikidata.org/sparql -H "Accept: text/csv" --data-urlencode query@query3.sparql > result3.csv

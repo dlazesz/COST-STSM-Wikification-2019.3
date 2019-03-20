@@ -1,0 +1,4 @@
+pygtrie
+flair
+scipy
+requests

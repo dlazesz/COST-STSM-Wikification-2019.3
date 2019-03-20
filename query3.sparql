@@ -1,0 +1,18 @@
+PREFIX schema: <http://schema.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?human ?name_hu ?alias_hu ?article
+WHERE {
+?human wdt:P31 wd:Q5. # Human
+?human rdfs:label ?name_hu . # Has name...
+FILTER(LANG(?name_hu) = "hu"). # ...in Hungarian
+OPTIONAL{
+?human skos:altLabel ?alias_hu . # "Also known as"...
+FILTER(LANG(?alias_hu) = "hu"). # ...in Hungarian
+FILTER(?alias_hu != ?name_hu) # We do not want the same name as alias!
+}
+?article schema:about ?human .
+?article schema:inLanguage "hu" .
+?article schema:isPartOf <https://hu.wikipedia.org/> .
+}
