@@ -1,0 +1,3863 @@
+{
+    "annotations": [
+        {
+            "title": "Nur",
+            "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Nur",
+            "lang": "de",
+            "pageRank": 2.191815977120971E-4,
+            "cosine": 0.3057957651074559,
+            "secLang": "en",
+            "secTitle": "Nur",
+            "secUrl": "http:\\/\\/en.wikipedia.org\\/wiki\\/Nur",
+            "wikiDataItemId": "Q404345",
+            "wikiDataClasses": [
+                {
+                    "itemId": "Q4167410",
+                    "enLabel": "Wikimedia disambiguation page"
+                },
+                {
+                    "itemId": "Q15633587",
+                    "enLabel": "MediaWiki main-namespace page"
+                },
+                {
+                    "itemId": "Q12139612",
+                    "enLabel": "list"
+                },
+                {
+                    "itemId": "Q48522",
+                    "enLabel": "word-sense disambiguation"
+                },
+                {
+                    "itemId": "Q17442446",
+                    "enLabel": "Wikimedia internal item"
+                },
+                {
+                    "itemId": "Q15474042",
+                    "enLabel": "MediaWiki page"
+                },
+                {
+                    "itemId": "Q17537576",
+                    "enLabel": "creative work"
+                },
+                {
+                    "itemId": "Q621184",
+                    "enLabel": "problem"
+                },
+                {
+                    "itemId": "Q36774",
+                    "enLabel": "web page"
+                },
+                {
+                    "itemId": "Q15621286",
+                    "enLabel": "intellectual work"
+                },
+                {
+                    "itemId": "Q18593264",
+                    "enLabel": "item of collection or exhibition"
+                },
+                {
+                    "itemId": "Q813912",
+                    "enLabel": "condition"
+                },
+                {
+                    "itemId": "Q5358404",
+                    "enLabel": "electronic page"
+                },
+                {
+                    "itemId": "Q49848",
+                    "enLabel": "document"
+                },
+                {
+                    "itemId": "Q386724",
+                    "enLabel": "work"
+                },
+                {
+                    "itemId": "Q3505845",
+                    "enLabel": "state"
+                },
+                {
+                    "itemId": "Q1209283",
+                    "enLabel": "electronic media"
+                },
+                {
+                    "itemId": "Q1260632",
+                    "enLabel": "content"
+                },
+                {
+                    "itemId": "Q340169",
+                    "enLabel": "communication medium"
+                },
+                {
+                    "itemId": "Q234460",
+                    "enLabel": "text"
+                },
+                {
+                    "itemId": "Q15401930",
+                    "enLabel": "product"
+                },
+                {
+                    "itemId": "Q937228",
+                    "enLabel": "property"
+                },
+                {
+                    "itemId": "Q483247",
+                    "enLabel": "phenomenon"
+                },
+                {
+                    "itemId": "Q286583",
+                    "enLabel": "manifestation"
+                },
+                {
+                    "itemId": "Q11028",
+                    "enLabel": "information"
+                },
+                {
+                    "itemId": "Q47461344",
+                    "enLabel": "written work"
+                },
+                {
+                    "itemId": "Q16686448",
+                    "enLabel": "artificial entity"
+                },
+                {
+                    "itemId": "Q714737",
+                    "enLabel": "category of being"
+                },
+                {
+                    "itemId": "Q1207505",
+                    "enLabel": "quality"
+                },
+                {
+                    "itemId": "Q1190554",
+                    "enLabel": "occurrence"
+                },
+                {
+                    "itemId": "Q16722960",
+                    "enLabel": "phenomenon"
+                },
+                {
+                    "itemId": "Q8205328",
+                    "enLabel": "artificial physical object"
+                },
+                {
+                    "itemId": "Q7184903",
+                    "enLabel": "abstract object"
+                },
+                {
+                    "itemId": "Q35120",
+                    "enLabel": "entity"
+                },
+                {
+                    "itemId": "Q151885",
+                    "enLabel": "concept"
+                },
+                {
+                    "itemId": "Q26907166",
+                    "enLabel": "temporal entity"
+                },
+                {
+                    "itemId": "Q223557",
+                    "enLabel": "physical object"
+                },
+                {
+                    "itemId": "Q488383",
+                    "enLabel": "object"
+                },
+                {
+                    "itemId": "Q2145290",
+                    "enLabel": "mental representation"
+                },
+                {
+                    "itemId": "Q58415929",
+                    "enLabel": "spacio-temporal entity"
+                },
+                {
+                    "itemId": "Q4406616",
+                    "enLabel": "concrete object"
+                },
+                {
+                    "itemId": "Q1454986",
+                    "enLabel": "physical system"
+                },
+                {
+                    "itemId": "Q4393498",
+                    "enLabel": "representation"
+                },
+                {
+                    "itemId": "Q58778",
+                    "enLabel": "system"
+                },
+                {
+                    "itemId": "Q30060700",
+                    "enLabel": "object of science"
+                },
+                {
+                    "itemId": "Q6671777",
+                    "enLabel": "structure"
+                }
+            ],
+            "dbPediaTypes": [],
+            "dbPediaIri": "http:\\/\\/dbpedia.org\\/resource\\/Nur",
+            "supportLen": 1,
+            "support": [{
+                "wFrom": 0,
+                "wTo": 0,
+                "chFrom": 0,
+                "chTo": 2,
+                "pMentionGivenSurface": 3.711539175295995E-4,
+                "pageRank": 7.167697907827043E-5,
+                "prbConfidence": 0.3394017608593612,
+                "entropy": 1.541982284286398
+            }]
+        },
+        {
+            "title": "Posaune",
+            "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Posaune",
+            "lang": "de",
+            "pageRank": 0.006529955047889854,
+            "cosine": 0.0238626457921682,
+            "secLang": "en",
+            "secTitle": "Trombone",
+            "secUrl": "http:\\/\\/en.wikipedia.org\\/wiki\\/Trombone",
+            "wikiDataItemId": "Q8350",
+            "wikiDataClasses": [],
+            "dbPediaTypes": ["Instrument"],
+            "dbPediaIri": "http:\\/\\/dbpedia.org\\/resource\\/Trombone",
+            "supportLen": 1,
+            "support": [{
+                "wFrom": 1,
+                "wTo": 1,
+                "chFrom": 4,
+                "chTo": 6,
+                "pMentionGivenSurface": 4.509068703391529E-6,
+                "pageRank": 8.707881228000337E-7,
+                "prbConfidence": 0.4121455361315045,
+                "entropy": 2.521640636343318
+            }]
+        },
+        {
+            "title": "Kleinwagen",
+            "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Kleinwagen",
+            "lang": "de",
+            "pageRank": 0.002458696744686658,
+            "cosine": 0.01563568181162829,
+            "secLang": "en",
+            "secTitle": "Supermini",
+            "secUrl": "http:\\/\\/en.wikipedia.org\\/wiki\\/Supermini",
+            "wikiDataItemId": "Q815423",
+            "wikiDataClasses": [{
+                "itemId": "Q836985",
+                "enLabel": "car classification"
+            }],
+            "dbPediaTypes": [],
+            "dbPediaIri": "http:\\/\\/dbpedia.org\\/resource\\/Supermini",
+            "supportLen": 1,
+            "support": [{
+                "wFrom": 2,
+                "wTo": 2,
+                "chFrom": 8,
+                "chTo": 14,
+                "pMentionGivenSurface": 1.027010372804765E-4,
+                "pageRank": 1.983355086069467E-5,
+                "prbConfidence": 0.4489533597972669,
+                "entropy": 2.321928094887363
+            }]
+        },
+        {
+            "title": "Georg II. (Gro\\u00dfbritannien)",
+            "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_II%2e_(Gro%c3%9fbritannien)",
+            "lang": "de",
+            "pageRank": 0.0281325028112591,
+            "cosine": 0.03045951188920507,
+            "secLang": "en",
+            "secTitle": "George II of Great Britain",
+            "secUrl": "http:\\/\\/en.wikipedia.org\\/wiki\\/George_II_of_Great_Britain",
+            "wikiDataItemId": "Q131981",
+            "wikiDataClasses": [
+                {
+                    "itemId": "Q5",
+                    "enLabel": "human"
+                },
+                {
+                    "itemId": "Q215627",
+                    "enLabel": "person"
+                },
+                {
+                    "itemId": "Q154954",
+                    "enLabel": "natural person"
+                },
+                {
+                    "itemId": "Q830077",
+                    "enLabel": "subject"
+                },
+                {
+                    "itemId": "Q24229398",
+                    "enLabel": "agent"
+                },
+                {
+                    "itemId": "Q18336849",
+                    "enLabel": "item with given name property"
+                },
+                {
+                    "itemId": "Q795052",
+                    "enLabel": "individual"
+                },
+                {
+                    "itemId": "Q3778211",
+                    "enLabel": "legal person"
+                },
+                {
+                    "itemId": "Q35120",
+                    "enLabel": "entity"
+                },
+                {
+                    "itemId": "Q23958946",
+                    "enLabel": "individual"
+                },
+                {
+                    "itemId": "Q1789452",
+                    "enLabel": "criterion"
+                },
+                {
+                    "itemId": "Q7887142",
+                    "enLabel": "unit of analysis"
+                },
+                {
+                    "itemId": "Q1921834",
+                    "enLabel": "feature"
+                },
+                {
+                    "itemId": "Q4330518",
+                    "enLabel": "research object"
+                },
+                {
+                    "itemId": "Q2198779",
+                    "enLabel": "unit"
+                },
+                {
+                    "itemId": "Q937228",
+                    "enLabel": "property"
+                },
+                {
+                    "itemId": "Q488383",
+                    "enLabel": "object"
+                },
+                {
+                    "itemId": "Q7184903",
+                    "enLabel": "abstract object"
+                },
+                {
+                    "itemId": "Q714737",
+                    "enLabel": "category of being"
+                },
+                {
+                    "itemId": "Q1207505",
+                    "enLabel": "quality"
+                },
+                {
+                    "itemId": "Q151885",
+                    "enLabel": "concept"
+                },
+                {
+                    "itemId": "Q2145290",
+                    "enLabel": "mental representation"
+                },
+                {
+                    "itemId": "Q4393498",
+                    "enLabel": "representation"
+                }
+            ],
+            "dbPediaTypes": [
+                "Person",
+                "Agent",
+                "OfficeHolder",
+                "BritishRoyalty",
+                "Royalty",
+                "Noble"
+            ],
+            "dbPediaIri": "http:\\/\\/dbpedia.org\\/resource\\/George_II_of_Great_Britain",
+            "supportLen": 1,
+            "support": [{
+                "wFrom": 3,
+                "wTo": 3,
+                "chFrom": 16,
+                "chTo": 21,
+                "pMentionGivenSurface": 0.004872942085519511,
+                "pageRank": 9.410590900890882E-4,
+                "prbConfidence": 0.1629838058441863,
+                "entropy": 5.427848809972588
+            }]
+        },
+        {
+            "title": "George Washington",
+            "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Washington",
+            "lang": "de",
+            "pageRank": 0.1104498881769351,
+            "cosine": 0.4070542633003835,
+            "secLang": "en",
+            "secTitle": "George Washington",
+            "secUrl": "http:\\/\\/en.wikipedia.org\\/wiki\\/George_Washington",
+            "wikiDataItemId": "Q23",
+            "wikiDataClasses": [
+                {
+                    "itemId": "Q5",
+                    "enLabel": "human"
+                },
+                {
+                    "itemId": "Q215627",
+                    "enLabel": "person"
+                },
+                {
+                    "itemId": "Q154954",
+                    "enLabel": "natural person"
+                },
+                {
+                    "itemId": "Q830077",
+                    "enLabel": "subject"
+                },
+                {
+                    "itemId": "Q24229398",
+                    "enLabel": "agent"
+                },
+                {
+                    "itemId": "Q18336849",
+                    "enLabel": "item with given name property"
+                },
+                {
+                    "itemId": "Q795052",
+                    "enLabel": "individual"
+                },
+                {
+                    "itemId": "Q3778211",
+                    "enLabel": "legal person"
+                },
+                {
+                    "itemId": "Q35120",
+                    "enLabel": "entity"
+                },
+                {
+                    "itemId": "Q23958946",
+                    "enLabel": "individual"
+                },
+                {
+                    "itemId": "Q1789452",
+                    "enLabel": "criterion"
+                },
+                {
+                    "itemId": "Q7887142",
+                    "enLabel": "unit of analysis"
+                },
+                {
+                    "itemId": "Q1921834",
+                    "enLabel": "feature"
+                },
+                {
+                    "itemId": "Q4330518",
+                    "enLabel": "research object"
+                },
+                {
+                    "itemId": "Q2198779",
+                    "enLabel": "unit"
+                },
+                {
+                    "itemId": "Q937228",
+                    "enLabel": "property"
+                },
+                {
+                    "itemId": "Q488383",
+                    "enLabel": "object"
+                },
+                {
+                    "itemId": "Q7184903",
+                    "enLabel": "abstract object"
+                },
+                {
+                    "itemId": "Q714737",
+                    "enLabel": "category of being"
+                },
+                {
+                    "itemId": "Q1207505",
+                    "enLabel": "quality"
+                },
+                {
+                    "itemId": "Q151885",
+                    "enLabel": "concept"
+                },
+                {
+                    "itemId": "Q2145290",
+                    "enLabel": "mental representation"
+                },
+                {
+                    "itemId": "Q4393498",
+                    "enLabel": "representation"
+                }
+            ],
+            "dbPediaTypes": [
+                "Person",
+                "Agent",
+                "President",
+                "Politician",
+                "OfficeHolder"
+            ],
+            "dbPediaIri": "http:\\/\\/dbpedia.org\\/resource\\/George_Washington",
+            "supportLen": 2,
+            "support": [
+                {
+                    "wFrom": 3,
+                    "wTo": 4,
+                    "chFrom": 16,
+                    "chTo": 32,
+                    "pMentionGivenSurface": 0.3857972004096961,
+                    "pageRank": 0.07450487939418228,
+                    "prbConfidence": 0.4523756250744402,
+                    "entropy": 0.3705864697988828
+                },
+                {
+                    "wFrom": 4,
+                    "wTo": 4,
+                    "chFrom": 23,
+                    "chTo": 32,
+                    "pMentionGivenSurface": 0.1266544454628781,
+                    "pageRank": 0.02445941591573978,
+                    "prbConfidence": 0.2407012698863585,
+                    "entropy": 2.058921410835993
+                }
+            ]
+        },
+        {
+            "title": "Yale University",
+            "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Yale_University",
+            "lang": "de",
+            "pageRank": 0.02197623270730484,
+            "cosine": 0.03246861606530728,
+            "secLang": "en",
+            "secTitle": "Yale University",
+            "secUrl": "http:\\/\\/en.wikipedia.org\\/wiki\\/Yale_University",
+            "wikiDataItemId": "Q49112",
+            "wikiDataClasses": [
+                {
+                    "itemId": "Q902104",
+                    "enLabel": "private university"
+                },
+                {
+                    "itemId": "Q15936437",
+                    "enLabel": "research university"
+                },
+                {
+                    "itemId": "Q1188663",
+                    "enLabel": "Colonial Colleges"
+                },
+                {
+                    "itemId": "Q23002054",
+                    "enLabel": "private not-for-profit educational institution"
+                },
+                {
+                    "itemId": "Q3918",
+                    "enLabel": "university"
+                },
+                {
+                    "itemId": "Q23002042",
+                    "enLabel": "private educational institution"
+                },
+                {
+                    "itemId": "Q1849445",
+                    "enLabel": "colleges and universities in the United States"
+                },
+                {
+                    "itemId": "Q163740",
+                    "enLabel": "nonprofit organization"
+                },
+                {
+                    "itemId": "Q38723",
+                    "enLabel": "higher education institution"
+                },
+                {
+                    "itemId": "Q4671277",
+                    "enLabel": "academic institution"
+                },
+                {
+                    "itemId": "Q2385804",
+                    "enLabel": "educational institution"
+                },
+                {
+                    "itemId": "Q43229",
+                    "enLabel": "organization"
+                },
+                {
+                    "itemId": "Q155076",
+                    "enLabel": "juridical person"
+                },
+                {
+                    "itemId": "Q13226383",
+                    "enLabel": "facility"
+                },
+                {
+                    "itemId": "Q178706",
+                    "enLabel": "institution"
+                },
+                {
+                    "itemId": "Q5341295",
+                    "enLabel": "educational organization"
+                },
+                {
+                    "itemId": "Q24229398",
+                    "enLabel": "agent"
+                },
+                {
+                    "itemId": "Q16334295",
+                    "enLabel": "group of humans"
+                },
+                {
+                    "itemId": "Q16513015",
+                    "enLabel": "order"
+                },
+                {
+                    "itemId": "Q3778211",
+                    "enLabel": "legal person"
+                },
+                {
+                    "itemId": "Q2221906",
+                    "enLabel": "geographic location"
+                },
+                {
+                    "itemId": "Q618123",
+                    "enLabel": "geographical object"
+                },
+                {
+                    "itemId": "Q35120",
+                    "enLabel": "entity"
+                },
+                {
+                    "itemId": "Q23958946",
+                    "enLabel": "individual"
+                },
+                {
+                    "itemId": "Q1789452",
+                    "enLabel": "criterion"
+                },
+                {
+                    "itemId": "Q16334298",
+                    "enLabel": "living thing group"
+                },
+                {
+                    "itemId": "Q3505845",
+                    "enLabel": "state"
+                },
+                {
+                    "itemId": "Q830077",
+                    "enLabel": "subject"
+                },
+                {
+                    "itemId": "Q17334923",
+                    "enLabel": "location"
+                },
+                {
+                    "itemId": "Q223557",
+                    "enLabel": "physical object"
+                },
+                {
+                    "itemId": "Q58416391",
+                    "enLabel": "spatial entity"
+                },
+                {
+                    "itemId": "Q1921834",
+                    "enLabel": "feature"
+                },
+                {
+                    "itemId": "Q16887380",
+                    "enLabel": "group"
+                },
+                {
+                    "itemId": "Q517966",
+                    "enLabel": "structure"
+                },
+                {
+                    "itemId": "Q937228",
+                    "enLabel": "property"
+                },
+                {
+                    "itemId": "Q483247",
+                    "enLabel": "phenomenon"
+                },
+                {
+                    "itemId": "Q4406616",
+                    "enLabel": "concrete object"
+                },
+                {
+                    "itemId": "Q1454986",
+                    "enLabel": "physical system"
+                },
+                {
+                    "itemId": "Q58415929",
+                    "enLabel": "spacio-temporal entity"
+                },
+                {
+                    "itemId": "Q17553950",
+                    "enLabel": "object"
+                },
+                {
+                    "itemId": "Q714737",
+                    "enLabel": "category of being"
+                },
+                {
+                    "itemId": "Q1207505",
+                    "enLabel": "quality"
+                },
+                {
+                    "itemId": "Q1190554",
+                    "enLabel": "occurrence"
+                },
+                {
+                    "itemId": "Q16722960",
+                    "enLabel": "phenomenon"
+                },
+                {
+                    "itemId": "Q488383",
+                    "enLabel": "object"
+                },
+                {
+                    "itemId": "Q58778",
+                    "enLabel": "system"
+                },
+                {
+                    "itemId": "Q30060700",
+                    "enLabel": "object of science"
+                },
+                {
+                    "itemId": "Q151885",
+                    "enLabel": "concept"
+                },
+                {
+                    "itemId": "Q26907166",
+                    "enLabel": "temporal entity"
+                },
+                {
+                    "itemId": "Q6671777",
+                    "enLabel": "structure"
+                },
+                {
+                    "itemId": "Q7184903",
+                    "enLabel": "abstract object"
+                },
+                {
+                    "itemId": "Q2145290",
+                    "enLabel": "mental representation"
+                },
+                {
+                    "itemId": "Q4393498",
+                    "enLabel": "representation"
+                }
+            ],
+            "dbPediaTypes": [
+                "Agent",
+                "Organisation",
+                "University",
+                "EducationalInstitution"
+            ],
+            "dbPediaIri": "http:\\/\\/dbpedia.org\\/resource\\/Yale_University",
+            "supportLen": 1,
+            "support": [{
+                "wFrom": 5,
+                "wTo": 5,
+                "chFrom": 33,
+                "chTo": 33,
+                "pMentionGivenSurface": 1.172478414183862E-5,
+                "pageRank": 2.264281927092369E-6,
+                "prbConfidence": 0.1947345450919983,
+                "entropy": 3.368522527728206
+            }]
+        }
+    ],
+    "spaces": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "",
+        ""
+    ],
+    "words": [
+        "Nur",
+        "ein",
+        "kleiner",
+        "George",
+        "Washington",
+        "."
+    ],
+    "normWords": [
+        "Nur",
+        "ein",
+        "kleiner",
+        "George",
+        "Washington",
+        "."
+    ],
+    "ranges": [
+        {
+            "wFrom": 0,
+            "wTo": 0,
+            "pageRank": 7.167697907827043E-5,
+            "prbConfidence": 0.3394017608593612,
+            "pMentionGivenSurface": 3.711539175295995E-4,
+            "nodeId": 30611,
+            "mentionEntropy": 1.541982284286398,
+            "minDf": -1,
+            "wordsUsed": ["Nur"],
+            "candidates": [
+                {
+                    "title": "Nur",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Nur",
+                    "cosine": 0.3057957651074559,
+                    "linkCount": 7,
+                    "pageRank": 2.191815977120971E-4,
+                    "prbConfidence": 0.3394017608593612,
+                    "linPr": 0.1447368421052632,
+                    "linkProb": 0.3888888888888889,
+                    "logLinkProb": 0.7572310134824758,
+                    "score2": 2.191815977120971E-4,
+                    "isBestCand": true
+                },
+                {
+                    "title": "Nur (Masowien)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Nur_(Masowien)",
+                    "cosine": 0.1166275972561979,
+                    "linkCount": 7,
+                    "pageRank": 2.181256031552745E-4,
+                    "prbConfidence": 0.3377665578323522,
+                    "linPr": 0.131578947368421,
+                    "linkProb": 0.3888888888888889,
+                    "logLinkProb": 0.7572310134824758
+                },
+                {
+                    "title": "Nur (Buchstabe)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Nur_(Buchstabe)",
+                    "cosine": 0.04189372128975218,
+                    "linkCount": 4,
+                    "pageRank": 2.084808385262128E-4,
+                    "prbConfidence": 0.3228316813082865,
+                    "linPr": 0.1184210526315789,
+                    "linkProb": 0.2222222222222222,
+                    "logLinkProb": 0.6133846608043317
+                }
+            ],
+            "nCandsIgnoredDueToLowLinkCount": 0,
+            "nCandsIgnoredDueToLowRelLinkCount": 0,
+            "nCandsIgnoredDueToWikiDataClass": 0
+        },
+        {
+            "wFrom": 1,
+            "wTo": 1,
+            "pageRank": 8.707881228000337E-7,
+            "prbConfidence": 0.4121455361315045,
+            "pMentionGivenSurface": 4.509068703391529E-6,
+            "nodeId": 66896,
+            "mentionEntropy": 2.521640636343318,
+            "minDf": -1,
+            "wordsUsed": ["ein"],
+            "candidates": [
+                {
+                    "title": "Fallen (Geologie)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Fallen_(Geologie)",
+                    "cosine": 0.02206535906914939,
+                    "linkCount": 2,
+                    "pageRank": 4.191521609256822E-4,
+                    "prbConfidence": 0.02645526513099326,
+                    "linPr": 0.1578947368421053,
+                    "linkProb": 0.2857142857142857,
+                    "logLinkProb": 0.5747450176316136
+                },
+                {
+                    "title": "Posaune",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Posaune",
+                    "cosine": 0.0238626457921682,
+                    "linkCount": 1,
+                    "pageRank": 0.006529955047889854,
+                    "prbConfidence": 0.4121455361315045,
+                    "linPr": 0.4342105263157895,
+                    "linkProb": 0.1428571428571428,
+                    "logLinkProb": 0.3394536660667255,
+                    "score2": 0.006529955047889854,
+                    "isBestCand": true
+                },
+                {
+                    "title": "1D",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/1D",
+                    "cosine": 0.008124794914639232,
+                    "linkCount": 1,
+                    "pageRank": 2.082752357619191E-4,
+                    "prbConfidence": 0.0131455282733915,
+                    "linPr": 0.1052631578947368,
+                    "linkProb": 0.1428571428571428,
+                    "logLinkProb": 0.3394536660667255
+                },
+                {
+                    "title": "Belagerung von Akkon (1189\\u20131191)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Belagerung_von_Akkon_(1189%e2%80%931191)",
+                    "cosine": 0.01599366453653382,
+                    "linkCount": 1,
+                    "pageRank": 0.002708582285007693,
+                    "prbConfidence": 0.1709552500474765,
+                    "linPr": 0.3026315789473684,
+                    "linkProb": 0.1428571428571428,
+                    "logLinkProb": 0.3394536660667255
+                },
+                {
+                    "title": "Alija",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Alija",
+                    "cosine": 0.01887382977068993,
+                    "linkCount": 1,
+                    "pageRank": 0.005977732040803686,
+                    "prbConfidence": 0.3772913532695217,
+                    "linPr": 0.3815789473684211,
+                    "linkProb": 0.1428571428571428,
+                    "logLinkProb": 0.3394536660667255
+                },
+                {
+                    "title": "Kupfer(I)-chlorid",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Kupfer(I)-chlorid",
+                    "cosine": 0.005448851492551254,
+                    "linkCount": 1,
+                    "pageRank": 1.119705271978685E-7,
+                    "prbConfidence": 7.067147112721001E-6,
+                    "linPr": 0.02631578947368421,
+                    "linkProb": 0.1428571428571428,
+                    "logLinkProb": 0.3394536660667255
+                }
+            ],
+            "nCandsIgnoredDueToLowLinkCount": 0,
+            "nCandsIgnoredDueToLowRelLinkCount": 0,
+            "nCandsIgnoredDueToWikiDataClass": 0
+        },
+        {
+            "wFrom": 2,
+            "wTo": 2,
+            "pageRank": 1.983355086069467E-5,
+            "prbConfidence": 0.4489533597972669,
+            "pMentionGivenSurface": 1.027010372804765E-4,
+            "nodeId": 74479,
+            "mentionEntropy": 2.321928094887363,
+            "minDf": -1,
+            "wordsUsed": ["kleiner"],
+            "candidates": [
+                {
+                    "title": "Brechungsindex",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Brechungsindex",
+                    "cosine": 0.01956146341951296,
+                    "linkCount": 1,
+                    "pageRank": 0.00142557571047269,
+                    "prbConfidence": 0.2603074194673224,
+                    "linPr": 0.2368421052631579,
+                    "linkProb": 0.2,
+                    "logLinkProb": 0.383224293337255
+                },
+                {
+                    "title": "Widerrist",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Widerrist",
+                    "cosine": 0.00808711744103374,
+                    "linkCount": 1,
+                    "pageRank": 0.001102705248503057,
+                    "prbConfidence": 0.201351885811611,
+                    "linPr": 0.2105263157894737,
+                    "linkProb": 0.2,
+                    "logLinkProb": 0.383224293337255
+                },
+                {
+                    "title": "Kleinwagen",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Kleinwagen",
+                    "cosine": 0.01563568181162829,
+                    "linkCount": 1,
+                    "pageRank": 0.002458696744686658,
+                    "prbConfidence": 0.4489533597972669,
+                    "linPr": 0.2894736842105263,
+                    "linkProb": 0.2,
+                    "logLinkProb": 0.383224293337255,
+                    "score2": 0.002458696744686658,
+                    "isBestCand": true
+                },
+                {
+                    "title": "Miniaturisierung",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Miniaturisierung",
+                    "cosine": 0.02018836306882375,
+                    "linkCount": 1,
+                    "pageRank": 4.859600468332862E-4,
+                    "prbConfidence": 0.08873538236243347,
+                    "linPr": 0.1710526315789474,
+                    "linkProb": 0.2,
+                    "logLinkProb": 0.383224293337255
+                },
+                {
+                    "title": "Kleinsatellit",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Kleinsatellit",
+                    "cosine": 0.02225440721699475,
+                    "linkCount": 1,
+                    "pageRank": 3.570423531399927E-6,
+                    "prbConfidence": 6.519525613662063E-4,
+                    "linPr": 0.03947368421052631,
+                    "linkProb": 0.2,
+                    "logLinkProb": 0.383224293337255
+                }
+            ],
+            "nCandsIgnoredDueToLowLinkCount": 0,
+            "nCandsIgnoredDueToLowRelLinkCount": 0,
+            "nCandsIgnoredDueToWikiDataClass": 0
+        },
+        {
+            "wFrom": 3,
+            "wTo": 3,
+            "pageRank": 9.410590900890882E-4,
+            "prbConfidence": 0.1629838058441863,
+            "pMentionGivenSurface": 0.004872942085519511,
+            "nodeId": 552,
+            "mentionEntropy": 5.427848809972588,
+            "minDf": -1,
+            "wordsUsed": ["George"],
+            "candidates": [
+                {
+                    "title": "George (S\\u00fcdafrika)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_(S%c3%bcdafrika)",
+                    "cosine": 0.224385375652808,
+                    "linkCount": 74,
+                    "pageRank": 0.008469418658121421,
+                    "prbConfidence": 0.0490670202878622,
+                    "linPr": 0.5657894736842105,
+                    "linkProb": 0.2387096774193548,
+                    "logLinkProb": 0.7873536954674913
+                },
+                {
+                    "title": "George Gershwin",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Gershwin",
+                    "cosine": 0.1175632026732687,
+                    "linkCount": 21,
+                    "pageRank": 0.01297957133147974,
+                    "prbConfidence": 0.07519629334166521,
+                    "linPr": 0.6842105263157895,
+                    "linkProb": 0.06774193548387097,
+                    "logLinkProb": 0.6003828444380939
+                },
+                {
+                    "title": "Stefan George",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Stefan_George",
+                    "cosine": 0.2248401999639852,
+                    "linkCount": 19,
+                    "pageRank": 0.01167651654172526,
+                    "prbConfidence": 0.06764713106902576,
+                    "linPr": 0.6578947368421053,
+                    "linkProb": 0.06129032258064516,
+                    "logLinkProb": 0.5855261110524175
+                },
+                {
+                    "title": "George Boleyn, 2. Viscount Rochford",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Boleyn,_2%2e_Viscount_Rochford",
+                    "cosine": 0.1000019507764641,
+                    "linkCount": 9,
+                    "pageRank": 0.002087951932221031,
+                    "prbConfidence": 0.01209641227501847,
+                    "linPr": 0.2763157894736842,
+                    "linkProb": 0.02903225806451613,
+                    "logLinkProb": 0.4746070310167402
+                },
+                {
+                    "title": "George (Gemeinde)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_(Gemeinde)",
+                    "cosine": 0.1442334581383463,
+                    "linkCount": 8,
+                    "pageRank": 0.006616486271617517,
+                    "prbConfidence": 0.03833217830275832,
+                    "linPr": 0.4605263157894737,
+                    "linkProb": 0.02580645161290323,
+                    "logLinkProb": 0.4571229114296235
+                },
+                {
+                    "title": "Georg V. (Vereinigtes K\\u00f6nigreich)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_V%2e_(Vereinigtes_K%c3%b6nigreich)",
+                    "cosine": 0.06795736960248241,
+                    "linkCount": 7,
+                    "pageRank": 0.01477518623273532,
+                    "prbConfidence": 0.08559907024354975,
+                    "linPr": 0.7105263157894737,
+                    "linkProb": 0.02258064516129032,
+                    "logLinkProb": 0.4373010514794988
+                },
+                {
+                    "title": "George, 1. Duke of Kent",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George,_1%2e_Duke_of_Kent",
+                    "cosine": 0.1271656069377559,
+                    "linkCount": 7,
+                    "pageRank": 0.0110752637534397,
+                    "prbConfidence": 0.0641638125613674,
+                    "linPr": 0.631578947368421,
+                    "linkProb": 0.02258064516129032,
+                    "logLinkProb": 0.4373010514794988
+                },
+                {
+                    "title": "George Stephenson",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Stephenson",
+                    "cosine": 0.1011734665520197,
+                    "linkCount": 7,
+                    "pageRank": 0.007270505417054489,
+                    "prbConfidence": 0.04212119523215925,
+                    "linPr": 0.4868421052631579,
+                    "linkProb": 0.02258064516129032,
+                    "logLinkProb": 0.4373010514794988
+                },
+                {
+                    "title": "George of Cambridge",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_of_Cambridge",
+                    "cosine": 0.1262169253927892,
+                    "linkCount": 6,
+                    "pageRank": 0.009862740616101727,
+                    "prbConfidence": 0.05713913946621767,
+                    "linPr": 0.6052631578947368,
+                    "linkProb": 0.01935483870967742,
+                    "logLinkProb": 0.4144183935015028
+                },
+                {
+                    "title": "George Plantagenet, 1. Duke of Clarence",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Plantagenet,_1%2e_Duke_of_Clarence",
+                    "cosine": 0.1268033393935807,
+                    "linkCount": 5,
+                    "pageRank": 0.005468253406426522,
+                    "prbConfidence": 0.03167996667339326,
+                    "linPr": 0.3684210526315789,
+                    "linkProb": 0.01612903225806452,
+                    "logLinkProb": 0.387353953495095
+                },
+                {
+                    "title": "George (Band)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_(Band)",
+                    "cosine": 0.1024238727127882,
+                    "linkCount": 5,
+                    "pageRank": 0.00540917733118546,
+                    "prbConfidence": 0.0313377133146458,
+                    "linPr": 0.3552631578947368,
+                    "linkProb": 0.01612903225806452,
+                    "logLinkProb": 0.387353953495095
+                },
+                {
+                    "title": "Georg II. (Gro\\u00dfbritannien)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_II%2e_(Gro%c3%9fbritannien)",
+                    "cosine": 0.03045951188920507,
+                    "linkCount": 4,
+                    "pageRank": 0.0281325028112591,
+                    "prbConfidence": 0.1629838058441863,
+                    "linPr": 0.9473684210526315,
+                    "linkProb": 0.01290322580645161,
+                    "logLinkProb": 0.3542297559862656,
+                    "score2": 0.0281325028112591,
+                    "isBestCand": true
+                },
+                {
+                    "title": "George W. Bush",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_W%2e_Bush",
+                    "cosine": 0.09448728542393187,
+                    "linkCount": 4,
+                    "pageRank": 0.02478673640687492,
+                    "prbConfidence": 0.1436003281027778,
+                    "linPr": 0.9342105263157895,
+                    "linkProb": 0.01290322580645161,
+                    "logLinkProb": 0.3542297559862656
+                },
+                {
+                    "title": "George (Kinderbuch)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_(Kinderbuch)",
+                    "cosine": 0.04008712488442463,
+                    "linkCount": 4,
+                    "pageRank": 0.006150841404593933,
+                    "prbConfidence": 0.0356344953732132,
+                    "linPr": 0.3947368421052632,
+                    "linkProb": 0.01290322580645161,
+                    "logLinkProb": 0.3542297559862656
+                },
+                {
+                    "title": "George, 2. Duke of Cambridge",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George,_2%2e_Duke_of_Cambridge",
+                    "cosine": 0.1043153808341595,
+                    "linkCount": 4,
+                    "pageRank": 0.007937818093216023,
+                    "prbConfidence": 0.04598722735800864,
+                    "linPr": 0.5263157894736842,
+                    "linkProb": 0.01290322580645161,
+                    "logLinkProb": 0.3542297559862656
+                },
+                {
+                    "title": "George Douglas, 1. Earl of Angus",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Douglas,_1%2e_Earl_of_Angus",
+                    "cosine": 0.0834347355565034,
+                    "linkCount": 3,
+                    "pageRank": 1.276951311922584E-5,
+                    "prbConfidence": 7.397933489642285E-5,
+                    "linPr": 0.05263157894736842,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George F. Sternberg",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_F%2e_Sternberg",
+                    "cosine": 0.06328765475562192,
+                    "linkCount": 3,
+                    "pageRank": 0.001433986737697187,
+                    "prbConfidence": 0.008307707906686465,
+                    "linPr": 0.25,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George Howard Darwin",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Howard_Darwin",
+                    "cosine": 0.06984743854495559,
+                    "linkCount": 3,
+                    "pageRank": 1.276951311922584E-5,
+                    "prbConfidence": 7.397933489642285E-5,
+                    "linPr": 0.05263157894736842,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George Young (Rockmusiker)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Young_(Rockmusiker)",
+                    "cosine": 0.08844832769972363,
+                    "linkCount": 3,
+                    "pageRank": 1.276951311922584E-5,
+                    "prbConfidence": 7.397933489642285E-5,
+                    "linPr": 0.05263157894736842,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George County",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_County",
+                    "cosine": 0.09126983823598603,
+                    "linkCount": 3,
+                    "pageRank": 0.008437925136898498,
+                    "prbConfidence": 0.04888456464277496,
+                    "linPr": 0.5526315789473685,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "Flughafen George",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Flughafen_George",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George Halban",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Halban",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George Boateng (Rapper)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Boateng_(Rapper)",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George Hadley",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Hadley",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George Thynne, 2. Baron Carteret",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Thynne,_2%2e_Baron_Carteret",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.00967741935483871,
+                    "logLinkProb": 0.311525238058145
+                },
+                {
+                    "title": "George Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Washington",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.006451612903225806,
+                    "logLinkProb": 0.2513366005429076
+                },
+                {
+                    "title": "George Carew (Admiral)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Carew_(Admiral)",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.006451612903225806,
+                    "logLinkProb": 0.2513366005429076
+                },
+                {
+                    "title": "George Schuller",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Schuller",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.006451612903225806,
+                    "logLinkProb": 0.2513366005429076
+                },
+                {
+                    "title": "Georg IV. (Vereinigtes K\\u00f6nigreich)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_IV%2e_(Vereinigtes_K%c3%b6nigreich)",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.006451612903225806,
+                    "logLinkProb": 0.2513366005429076
+                },
+                {
+                    "title": "George Rice",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Rice",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.006451612903225806,
+                    "logLinkProb": 0.2513366005429076
+                },
+                {
+                    "title": "George Kink",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Kink",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.006451612903225806,
+                    "logLinkProb": 0.2513366005429076
+                },
+                {
+                    "title": "George Rice, 3. Baron Dynevor",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Rice,_3%2e_Baron_Dynevor",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.006451612903225806,
+                    "logLinkProb": 0.2513366005429076
+                },
+                {
+                    "title": "George dos Santos Paladini",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_dos_Santos_Paladini",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.006451612903225806,
+                    "logLinkProb": 0.2513366005429076
+                },
+                {
+                    "title": "George Souto Maior Wanderley",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Souto_Maior_Wanderley",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Eustis",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Eustis",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George S. Mickelson",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_S%2e_Mickelson",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Rivi\\u00e8re George",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Rivi%c3%a8re_George",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George R\\u00fcmker",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_R%c3%bcmker",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Greenbaum",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Greenbaum",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Carew (Geistlicher)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Carew_(Geistlicher)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Galbraith",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Galbraith",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Georg I. (Gro\\u00dfbritannien)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_I%2e_(Gro%c3%9fbritannien)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Cadwalader",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Cadwalader",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George M. Pritchard",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_M%2e_Pritchard",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Ashmun",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Ashmun",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Clinton junior",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Clinton_junior",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George FitzRoy, 4. Duke of Grafton",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_FitzRoy,_4%2e_Duke_of_Grafton",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Landseer",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Landseer",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Onslow, 1. Earl of Onslow",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Onslow,_1%2e_Earl_of_Onslow",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Douglas, 13. Earl of Morton",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Douglas,_13%2e_Earl_of_Morton",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Van Eman Lawrence",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Van_Eman_Lawrence",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Heermann",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Heermann",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George James Robarts",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_James_Robarts",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George (Serie)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_(Serie)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Williams (Fu\\u00dfballspieler, 1995)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Williams_(Fu%c3%9fballspieler,_1995)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George F. Brumm",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_F%2e_Brumm",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Frisbie Hoar",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Frisbie_Hoar",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Alaba",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Alaba",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Ramsay, 4. Earl of Dalhousie",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Ramsay,_4%2e_Earl_of_Dalhousie",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Ramsay, 2. Earl of Dalhousie",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Ramsay,_2%2e_Earl_of_Dalhousie",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Wyndham, 3. Earl of Egremont",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Wyndham,_3%2e_Earl_of_Egremont",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Townshend, 3. Marquess Townshend",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Townshend,_3%2e_Marquess_Townshend",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Townshend, 1. Marquess Townshend",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Townshend,_1%2e_Marquess_Townshend",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George MacLeod, Baron MacLeod of Fuinary",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_MacLeod,_Baron_MacLeod_of_Fuinary",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Edgcumbe, 1. Earl of Mount Edgcumbe",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Edgcumbe,_1%2e_Earl_of_Mount_Edgcumbe",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Edmund Foss",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Edmund_Foss",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Prevost",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Prevost",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Elmer George",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Elmer_George",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Clifford, 3. Earl of Cumberland",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Clifford,_3%2e_Earl_of_Cumberland",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Theodorakis",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Theodorakis",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Stults",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Stults",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Bibb Crittenden",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Bibb_Crittenden",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George B. Rodney",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_B%2e_Rodney",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Keith, 10. Earl Marischal",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Keith,_10%2e_Earl_Marischal",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Herbert, 5. Earl of Carnarvon",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Herbert,_5%2e_Earl_of_Carnarvon",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Clinton (Vizepr\\u00e4sident)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Clinton_(Vizepr%c3%a4sident)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George M. Dallas",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_M%2e_Dallas",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Buck Boucher",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Buck_Boucher",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Georg von Griechenland",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_von_Griechenland",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Johnstone Stoney",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Johnstone_Stoney",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Savalas",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Savalas",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George P\\u00f3lya",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_P%c3%b3lya",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Georg (Sachsen)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_(Sachsen)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Jones (Musiker)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Jones_(Musiker)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Mallory",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Mallory",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Georg (Heiliger)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_(Heiliger)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Georg III. (Vereinigtes K\\u00f6nigreich)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_III%2e_(Vereinigtes_K%c3%b6nigreich)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Harrison",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Harrison",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Jones (Senator)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Jones_(Senator)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Ramsay, 9. Earl of Dalhousie",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Ramsay,_9%2e_Earl_of_Dalhousie",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Dinorwic und George",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Dinorwic_und_George",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George William Smith",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_William_Smith",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Osborne, 10. Duke of Leeds",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Osborne,_10%2e_Duke_of_Leeds",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Osborne, 9. Duke of Leeds",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Osborne,_9%2e_Duke_of_Leeds",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Osborne, 8. Duke of Leeds",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Osborne,_8%2e_Duke_of_Leeds",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Carew (Diplomat)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Carew_(Diplomat)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Freeman (Musiker)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Freeman_(Musiker)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Izard",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Izard",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Baquet",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Baquet",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Sullivan (Politiker)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Sullivan_(Politiker)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Douglas, 4. Earl of Angus",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Douglas,_4%2e_Earl_of_Angus",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George H. Pendleton",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_H%2e_Pendleton",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Mountbatten, 2. Marquess of Milford Haven",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Mountbatten,_2%2e_Marquess_of_Milford_Haven",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Adamson",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Adamson",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Brunies",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Brunies",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Huddleston",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Huddleston",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Kuchar",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Kuchar",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Spencer, 4. Duke of Marlborough",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Spencer,_4%2e_Duke_of_Marlborough",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "Georg von Lalaing",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_von_Lalaing",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                },
+                {
+                    "title": "George Spencer-Churchill, 8. Duke of Marlborough",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Spencer-Churchill,_8%2e_Duke_of_Marlborough",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.003225806451612903,
+                    "logLinkProb": 0.1484434450995497
+                }
+            ],
+            "nCandsIgnoredDueToLowLinkCount": 0,
+            "nCandsIgnoredDueToLowRelLinkCount": 0,
+            "nCandsIgnoredDueToWikiDataClass": 0
+        },
+        {
+            "wFrom": 3,
+            "wTo": 4,
+            "pageRank": 0.07450487939418228,
+            "prbConfidence": 0.4523756250744402,
+            "pMentionGivenSurface": 0.3857972004096961,
+            "nodeId": 2639,
+            "mentionEntropy": 0.3705864697988828,
+            "minDf": -1,
+            "wordsUsed": [
+                "George",
+                "Washington"
+            ],
+            "candidates": [
+                {
+                    "title": "George Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Washington",
+                    "cosine": 0.4070542633003835,
+                    "linkCount": 1070,
+                    "pageRank": 0.1104498881769351,
+                    "prbConfidence": 0.4523756250744402,
+                    "linPr": 1,
+                    "linkProb": 0.9545049063336307,
+                    "logLinkProb": 0.9941956329512152,
+                    "score2": 0.1104498881769351,
+                    "isBestCand": true
+                },
+                {
+                    "title": "George Washington (Schiff, 1909)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Washington_(Schiff,_1909)",
+                    "cosine": 0.2451582359083943,
+                    "linkCount": 21,
+                    "pageRank": 0.02174194325003473,
+                    "prbConfidence": 0.08904966161949798,
+                    "linPr": 0.8026315789473685,
+                    "linkProb": 0.01873327386262266,
+                    "logLinkProb": 0.5041802947825792
+                },
+                {
+                    "title": "George Washington University",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Washington_University",
+                    "cosine": 0.1618826108078006,
+                    "linkCount": 10,
+                    "pageRank": 0.0293503230293174,
+                    "prbConfidence": 0.1202117172382693,
+                    "linPr": 0.9605263157894737,
+                    "linkProb": 0.008920606601248885,
+                    "logLinkProb": 0.4116921963888372
+                },
+                {
+                    "title": "USS George Washington (CVN-73)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/USS_George_Washington_(CVN-73)",
+                    "cosine": 0.2440231717139272,
+                    "linkCount": 8,
+                    "pageRank": 0.01761373004029374,
+                    "prbConfidence": 0.0721415138429652,
+                    "linPr": 0.7368421052631579,
+                    "linkProb": 0.007136485280999108,
+                    "logLinkProb": 0.3838756659547135
+                },
+                {
+                    "title": "George-Washington-Klasse",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George-Washington-Klasse",
+                    "cosine": 0.114052792058907,
+                    "linkCount": 7,
+                    "pageRank": 0.02380857725467419,
+                    "prbConfidence": 0.09751408711670821,
+                    "linPr": 0.8947368421052632,
+                    "linkProb": 0.006244424620874219,
+                    "logLinkProb": 0.3672299684878809
+                },
+                {
+                    "title": "USS George Washington (SSBN-598)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/USS_George_Washington_(SSBN-598)",
+                    "cosine": 0.3224499037360423,
+                    "linkCount": 2,
+                    "pageRank": 0.01968201861047763,
+                    "prbConfidence": 0.08061271603442785,
+                    "linPr": 0.7894736842105263,
+                    "linkProb": 0.001784121320249777,
+                    "logLinkProb": 0.211063594713424
+                },
+                {
+                    "title": "George Washington (Posaunist)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Washington_(Posaunist)",
+                    "cosine": 0.1980067106689428,
+                    "linkCount": 2,
+                    "pageRank": 0.01789460276386732,
+                    "prbConfidence": 0.07329189956077974,
+                    "linPr": 0.75,
+                    "linkProb": 0.001784121320249777,
+                    "logLinkProb": 0.211063594713424
+                },
+                {
+                    "title": "Washington-Bataillon",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington-Bataillon",
+                    "cosine": 0.05984388953857349,
+                    "linkCount": 1,
+                    "pageRank": 0.00361417647478213,
+                    "prbConfidence": 0.01480277951291151,
+                    "linPr": 0.3289473684210527,
+                    "linkProb": 8.920606601248885E-4,
+                    "logLinkProb": 0.1246575590927793
+                }
+            ],
+            "nCandsIgnoredDueToLowLinkCount": 0,
+            "nCandsIgnoredDueToLowRelLinkCount": 0,
+            "nCandsIgnoredDueToWikiDataClass": 0
+        },
+        {
+            "wFrom": 4,
+            "wTo": 4,
+            "pageRank": 0.02445941591573978,
+            "prbConfidence": 0.2407012698863585,
+            "pMentionGivenSurface": 0.1266544454628781,
+            "nodeId": 1257,
+            "mentionEntropy": 2.058921410835993,
+            "minDf": -1,
+            "wordsUsed": ["Washington"],
+            "candidates": [
+                {
+                    "title": "Washington (Bundesstaat)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Bundesstaat)",
+                    "cosine": 0.2553516868199423,
+                    "linkCount": 3959,
+                    "pageRank": 0.05165583823964612,
+                    "prbConfidence": 0.1125725527345858,
+                    "linPr": 0.9868421052631579,
+                    "linkProb": 0.5679242576387893,
+                    "logLinkProb": 0.9425588693652531
+                },
+                {
+                    "title": "Washington, D.C.",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington,_D%2eC%2e",
+                    "cosine": 0.2567582923795134,
+                    "linkCount": 2116,
+                    "pageRank": 0.04558967836018985,
+                    "prbConfidence": 0.09935268976849802,
+                    "linPr": 0.9736842105263158,
+                    "linkProb": 0.3035432506096686,
+                    "logLinkProb": 0.8789553295029688
+                },
+                {
+                    "title": "Washington (Pennsylvania)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Pennsylvania)",
+                    "cosine": 0.2728602634653512,
+                    "linkCount": 83,
+                    "pageRank": 0.02209454008708838,
+                    "prbConfidence": 0.04815019683856778,
+                    "linPr": 0.8289473684210527,
+                    "linkProb": 0.01190646966002008,
+                    "logLinkProb": 0.5501632493526801
+                },
+                {
+                    "title": "University of Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/University_of_Washington",
+                    "cosine": 0.1539783204569005,
+                    "linkCount": 72,
+                    "pageRank": 0.01790807978086324,
+                    "prbConfidence": 0.03902672619799128,
+                    "linPr": 0.7631578947368421,
+                    "linkProb": 0.0103285038014632,
+                    "logLinkProb": 0.535728578842162
+                },
+                {
+                    "title": "Erzbistum Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Erzbistum_Washington",
+                    "cosine": 0.2158498768641713,
+                    "linkCount": 71,
+                    "pageRank": 0.006853048301555765,
+                    "prbConfidence": 0.01493471343433639,
+                    "linPr": 0.4736842105263158,
+                    "linkProb": 0.01018505235977622,
+                    "logLinkProb": 0.5343085857314613
+                },
+                {
+                    "title": "Liste der Senatoren der Vereinigten Staaten aus Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Liste_der_Senatoren_der_Vereinigten_Staaten_aus_Washington",
+                    "cosine": 0.1093967161347294,
+                    "linkCount": 68,
+                    "pageRank": 0.00737487541538363,
+                    "prbConfidence": 0.01607192100450874,
+                    "linPr": 0.5,
+                    "linkProb": 0.009754698034715249,
+                    "logLinkProb": 0.5299254078389798
+                },
+                {
+                    "title": "Liste der Mitglieder des US-Repr\\u00e4sentantenhauses aus Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Liste_der_Mitglieder_des_US-Repr%c3%a4sentantenhauses_aus_Washington",
+                    "cosine": 0.08278143497727822,
+                    "linkCount": 66,
+                    "pageRank": 0.008514690394495318,
+                    "prbConfidence": 0.01855589738000469,
+                    "linPr": 0.5789473684210527,
+                    "linkProb": 0.00946779515134127,
+                    "logLinkProb": 0.5268945006029183
+                },
+                {
+                    "title": "ATP Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/ATP_Washington",
+                    "cosine": 0.02339813653768549,
+                    "linkCount": 43,
+                    "pageRank": 0.001439743356286686,
+                    "prbConfidence": 0.003137604391355298,
+                    "linPr": 0.2631578947368421,
+                    "linkProb": 0.006168411992540525,
+                    "logLinkProb": 0.4833944225448326
+                },
+                {
+                    "title": "Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington",
+                    "cosine": 0.4327091090209236,
+                    "linkCount": 31,
+                    "pageRank": 0.02245535744455571,
+                    "prbConfidence": 0.04893651901211583,
+                    "linPr": 0.8552631578947368,
+                    "linkProb": 0.004446994692296658,
+                    "logLinkProb": 0.4501731983956005
+                },
+                {
+                    "title": "Washington Wizards",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Wizards",
+                    "cosine": 0.06519750123189551,
+                    "linkCount": 31,
+                    "pageRank": 0.01129720815087984,
+                    "prbConfidence": 0.02461978362287876,
+                    "linPr": 0.6447368421052632,
+                    "linkProb": 0.004446994692296658,
+                    "logLinkProb": 0.4501731983956005
+                },
+                {
+                    "title": "Washington (North Carolina)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(North_Carolina)",
+                    "cosine": 0.1392004525322807,
+                    "linkCount": 23,
+                    "pageRank": 0.02303789229708296,
+                    "prbConfidence": 0.05020602576373653,
+                    "linPr": 0.868421052631579,
+                    "linkProb": 0.003299383158800746,
+                    "logLinkProb": 0.4198678463140721
+                },
+                {
+                    "title": "Washington (Tyne and Wear)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Tyne_and_Wear)",
+                    "cosine": 0.2502596147533667,
+                    "linkCount": 23,
+                    "pageRank": 0.02347561433894944,
+                    "prbConfidence": 0.05115994480406846,
+                    "linPr": 0.881578947368421,
+                    "linkProb": 0.003299383158800746,
+                    "logLinkProb": 0.4198678463140721
+                },
+                {
+                    "title": "Washington (Georgia)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Georgia)",
+                    "cosine": 0.0475876302057246,
+                    "linkCount": 21,
+                    "pageRank": 0.02239034534680896,
+                    "prbConfidence": 0.04879483942561818,
+                    "linPr": 0.8421052631578947,
+                    "linkProb": 0.003012480275426768,
+                    "logLinkProb": 0.4106316770447558
+                },
+                {
+                    "title": "George Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Washington",
+                    "cosine": 0.4070542633003835,
+                    "linkCount": 21,
+                    "pageRank": 0.1104498881769351,
+                    "prbConfidence": 0.2407012698863585,
+                    "linPr": 1,
+                    "linkProb": 0.003012480275426768,
+                    "logLinkProb": 0.4106316770447558,
+                    "score2": 0.1104498881769351,
+                    "isBestCand": true
+                },
+                {
+                    "title": "Washington Stecanela Cerqueira",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Stecanela_Cerqueira",
+                    "cosine": 0.1147856878516306,
+                    "linkCount": 20,
+                    "pageRank": 6.557213538495513E-5,
+                    "prbConfidence": 1.429000655123786E-4,
+                    "linPr": 0.09210526315789473,
+                    "linkProb": 0.002869028833739779,
+                    "logLinkProb": 0.4056781164588835
+                },
+                {
+                    "title": "Washington (Iowa)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Iowa)",
+                    "cosine": 0.2736576608249296,
+                    "linkCount": 18,
+                    "pageRank": 0.02413538247454489,
+                    "prbConfidence": 0.05259776453109236,
+                    "linPr": 0.9210526315789473,
+                    "linkProb": 0.002582125950365801,
+                    "logLinkProb": 0.3949810895774537
+                },
+                {
+                    "title": "Washington-on-the-Brazos",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington-on-the-Brazos",
+                    "cosine": 0.0488140715937601,
+                    "linkCount": 14,
+                    "pageRank": 0.02409435425211864,
+                    "prbConfidence": 0.0525083525325636,
+                    "linPr": 0.9078947368421053,
+                    "linkProb": 0.002008320183617845,
+                    "logLinkProb": 0.3694656753995019
+                },
+                {
+                    "title": "USS Washington (BB-56)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/USS_Washington_(BB-56)",
+                    "cosine": 0.2069937742297029,
+                    "linkCount": 13,
+                    "pageRank": 0.007452185224274318,
+                    "prbConfidence": 0.01624040075113239,
+                    "linPr": 0.5131578947368421,
+                    "linkProb": 0.001864868741930856,
+                    "logLinkProb": 0.3619416521417653
+                },
+                {
+                    "title": "Washington Redskins",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Redskins",
+                    "cosine": 0.08021738362361189,
+                    "linkCount": 12,
+                    "pageRank": 0.01243814965714172,
+                    "prbConfidence": 0.02710621501684587,
+                    "linPr": 0.6710526315789473,
+                    "linkProb": 0.001721417300243867,
+                    "logLinkProb": 0.3538150879321998
+                },
+                {
+                    "title": "Washington Dulles International Airport",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Dulles_International_Airport",
+                    "cosine": 0.1040074602952164,
+                    "linkCount": 10,
+                    "pageRank": 0.01614463370704219,
+                    "prbConfidence": 0.03518368283822917,
+                    "linPr": 0.7236842105263158,
+                    "linkProb": 0.00143451441686989,
+                    "logLinkProb": 0.3353043718265294
+                },
+                {
+                    "title": "Washington (Missouri)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Missouri)",
+                    "cosine": -99,
+                    "linkCount": 10,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.00143451441686989,
+                    "logLinkProb": 0.3353043718265294
+                },
+                {
+                    "title": "Legg Mason Tennis Classic 2011",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Legg_Mason_Tennis_Classic_2011",
+                    "cosine": -99,
+                    "linkCount": 9,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.001291062975182901,
+                    "logLinkProb": 0.3246073449450996
+                },
+                {
+                    "title": "Washington Capitals",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Capitals",
+                    "cosine": -99,
+                    "linkCount": 9,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.001291062975182901,
+                    "logLinkProb": 0.3246073449450996
+                },
+                {
+                    "title": "Washington (Schiff, 1847)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Schiff,_1847)",
+                    "cosine": -99,
+                    "linkCount": 8,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.001147611533495912,
+                    "logLinkProb": 0.3126490862869459
+                },
+                {
+                    "title": "Washington (Vermont)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Vermont)",
+                    "cosine": -99,
+                    "linkCount": 8,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.001147611533495912,
+                    "logLinkProb": 0.3126490862869459
+                },
+                {
+                    "title": "Washington (Maine)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Maine)",
+                    "cosine": -99,
+                    "linkCount": 8,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.001147611533495912,
+                    "logLinkProb": 0.3126490862869459
+                },
+                {
+                    "title": "Washington County (Illinois)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Illinois)",
+                    "cosine": -99,
+                    "linkCount": 7,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 0.001004160091808923,
+                    "logLinkProb": 0.2990919307671478
+                },
+                {
+                    "title": "Washington (Illinois)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Illinois)",
+                    "cosine": -99,
+                    "linkCount": 6,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 8.607086501219337E-4,
+                    "logLinkProb": 0.2834413432998457
+                },
+                {
+                    "title": "Washington County (Utah)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Utah)",
+                    "cosine": -99,
+                    "linkCount": 6,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 8.607086501219337E-4,
+                    "logLinkProb": 0.2834413432998457
+                },
+                {
+                    "title": "Washington County (Wisconsin)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Wisconsin)",
+                    "cosine": -99,
+                    "linkCount": 6,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 8.607086501219337E-4,
+                    "logLinkProb": 0.2834413432998457
+                },
+                {
+                    "title": "Washington County (Colorado)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Colorado)",
+                    "cosine": -99,
+                    "linkCount": 6,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 8.607086501219337E-4,
+                    "logLinkProb": 0.2834413432998457
+                },
+                {
+                    "title": "Washington County (Maryland)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Maryland)",
+                    "cosine": -99,
+                    "linkCount": 5,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 7.172572084349448E-4,
+                    "logLinkProb": 0.2649306271941753
+                },
+                {
+                    "title": "Washington County (Oklahoma)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Oklahoma)",
+                    "cosine": -99,
+                    "linkCount": 5,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 7.172572084349448E-4,
+                    "logLinkProb": 0.2649306271941753
+                },
+                {
+                    "title": "Washington County (Minnesota)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Minnesota)",
+                    "cosine": -99,
+                    "linkCount": 5,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 7.172572084349448E-4,
+                    "logLinkProb": 0.2649306271941753
+                },
+                {
+                    "title": "Washington County (Mississippi)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Mississippi)",
+                    "cosine": -99,
+                    "linkCount": 5,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 7.172572084349448E-4,
+                    "logLinkProb": 0.2649306271941753
+                },
+                {
+                    "title": "Washington County (Idaho)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Idaho)",
+                    "cosine": -99,
+                    "linkCount": 5,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 7.172572084349448E-4,
+                    "logLinkProb": 0.2649306271941753
+                },
+                {
+                    "title": "WTA Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/WTA_Washington",
+                    "cosine": -99,
+                    "linkCount": 4,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 5.738057667479559E-4,
+                    "logLinkProb": 0.2422753416545918
+                },
+                {
+                    "title": "Washington County (Oregon)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Oregon)",
+                    "cosine": -99,
+                    "linkCount": 4,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 5.738057667479559E-4,
+                    "logLinkProb": 0.2422753416545918
+                },
+                {
+                    "title": "MaliVai Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/MaliVai_Washington",
+                    "cosine": -99,
+                    "linkCount": 4,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 5.738057667479559E-4,
+                    "logLinkProb": 0.2422753416545918
+                },
+                {
+                    "title": "Washington County (Vermont)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Vermont)",
+                    "cosine": -99,
+                    "linkCount": 4,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 5.738057667479559E-4,
+                    "logLinkProb": 0.2422753416545918
+                },
+                {
+                    "title": "Washington County (Tennessee)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Tennessee)",
+                    "cosine": -99,
+                    "linkCount": 4,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 5.738057667479559E-4,
+                    "logLinkProb": 0.2422753416545918
+                },
+                {
+                    "title": "Washington County (Rhode Island)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Rhode_Island)",
+                    "cosine": -99,
+                    "linkCount": 4,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 5.738057667479559E-4,
+                    "logLinkProb": 0.2422753416545918
+                },
+                {
+                    "title": "Washington County (Missouri)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Missouri)",
+                    "cosine": -99,
+                    "linkCount": 4,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 5.738057667479559E-4,
+                    "logLinkProb": 0.2422753416545918
+                },
+                {
+                    "title": "Washington County (Ohio)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Ohio)",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Washington County (New York)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(New_York)",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Ronald Reagan Washington National Airport",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Ronald_Reagan_Washington_National_Airport",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Washington (West Sussex)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(West_Sussex)",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Washington August Roebling",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_August_Roebling",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Bushrod Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Bushrod_Washington",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Washington County (Arkansas)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Arkansas)",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Washington (New York)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(New_York)",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Washington Parish",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Parish",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Washington County (Iowa)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Iowa)",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Citi Open 2012\\/Herren",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2012%2fHerren",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Weinbau in Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Weinbau_in_Washington",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Legg Mason Tennis Classic 2010",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Legg_Mason_Tennis_Classic_2010",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Grube Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Grube_Washington",
+                    "cosine": -99,
+                    "linkCount": 3,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 4.303543250609668E-4,
+                    "logLinkProb": 0.2130675986674916
+                },
+                {
+                    "title": "Georgetown University",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georgetown_University",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Legg Mason Tennis Classic 2009",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Legg_Mason_Tennis_Classic_2009",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington Luiz de Paula",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Luiz_de_Paula",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington (Schiff, 1933)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Schiff,_1933)",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington Metropolitan Area",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Metropolitan_Area",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington County (Florida)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Florida)",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Deutsche Botschaft Washington, D.C.",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Deutsche_Botschaft_Washington,_D%2eC%2e",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Citi Open 2014\\/Damen",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2014%2fDamen",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Citi Open 2014\\/Herren",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2014%2fHerren",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "George Washington University",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/George_Washington_University",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington-Territorium",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington-Territorium",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Citi Open 2017\\/Herren",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2017%2fHerren",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington County (Alabama)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Alabama)",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington County (Maine)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Maine)",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington University in St. Louis",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_University_in_St%2e_Louis",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington County (Kentucky)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Kentucky)",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington County (Texas)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Texas)",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Metro Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Metro_Washington",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Washington County (Nebraska)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Nebraska)",
+                    "cosine": -99,
+                    "linkCount": 2,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 2.869028833739779E-4,
+                    "logLinkProb": 0.1719015970222377
+                },
+                {
+                    "title": "Citi Open 2012\\/Damen",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2012%2fDamen",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Wei\\u00dfes Haus",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Wei%c3%9fes_Haus",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington Benavidez",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Benavidez",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Colfax (Washington)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Colfax_(Washington)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Citi Open 2012",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2012",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Citi Open 2015\\/Damen",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2015%2fDamen",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Citi Open 2018\\/Herren",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2018%2fHerren",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Smithsonian Institution",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Smithsonian_Institution",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Citi Open 2013",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2013",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Citi Open 2013\\/Herren",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2013%2fHerren",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Citi Open 2016\\/Damen",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Citi_Open_2016%2fDamen",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington (Schiff, 1837)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_(Schiff,_1837)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington National Opera",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_National_Opera",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington C\\u00e9sar Santos",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_C%c3%a9sar_Santos",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington Motor Car Company",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Motor_Car_Company",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington-D.C.-Tempel",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington-D%2eC%2e-Tempel",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington County (Georgia)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Georgia)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Mount Washington (Band)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Mount_Washington_(Band)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington County (Virginia)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Virginia)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington State University",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_State_University",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington County (Indiana)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Indiana)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Katholische Universit\\u00e4t von Amerika",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Katholische_Universit%c3%a4t_von_Amerika",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Bundesregierung (Vereinigte Staaten)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Bundesregierung_(Vereinigte_Staaten)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "State Parks in Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/State_Parks_in_Washington",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Flottenkonferenzen",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Flottenkonferenzen",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Deutsches Historisches Institut Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Deutsches_Historisches_Institut_Washington",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Ned Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Ned_Washington",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington Mystics",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Mystics",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington Township (Bergen County, New Jersey)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Township_(Bergen_County,_New_Jersey)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington Nationals",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Nationals",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "National Museum of Natural History",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/National_Museum_of_Natural_History",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Repr\\u00e4sentantenhaus von Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Repr%c3%a4sentantenhaus_von_Washington",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Senat von Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Senat_von_Washington",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington County (Pennsylvania)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_County_(Pennsylvania)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington Township (Belmont County, Ohio)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Township_(Belmont_County,_Ohio)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington Lions",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Lions",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Liste der guatemaltekischen Botschafter in den Vereinigten Staaten",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Liste_der_guatemaltekischen_Botschafter_in_den_Vereinigten_Staaten",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Lawrence C. Washington",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Lawrence_C%2e_Washington",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "Washington Capitols (NBA)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Washington_Capitols_(NBA)",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                },
+                {
+                    "title": "WTA College Park",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/WTA_College_Park",
+                    "cosine": -99,
+                    "linkCount": 1,
+                    "pageRank": -1,
+                    "prbConfidence": -1,
+                    "linPr": -1,
+                    "linkProb": 1.43451441686989E-4,
+                    "logLinkProb": 0.1015278523898836
+                }
+            ],
+            "nCandsIgnoredDueToLowLinkCount": 0,
+            "nCandsIgnoredDueToLowRelLinkCount": 0,
+            "nCandsIgnoredDueToWikiDataClass": 0
+        },
+        {
+            "wFrom": 5,
+            "wTo": 5,
+            "pageRank": 2.264281927092369E-6,
+            "prbConfidence": 0.1947345450919983,
+            "pMentionGivenSurface": 1.172478414183862E-5,
+            "nodeId": 17072,
+            "mentionEntropy": 3.368522527728206,
+            "minDf": -1,
+            "wordsUsed": ["."],
+            "candidates": [
+                {
+                    "title": "Punkt (Satzzeichen)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Punkt_(Satzzeichen)",
+                    "cosine": 0.02498854519780534,
+                    "linkCount": 8,
+                    "pageRank": 0.002709872717255643,
+                    "prbConfidence": 0.02401257021075259,
+                    "linPr": 0.3157894736842105,
+                    "linkProb": 0.3636363636363636,
+                    "logLinkProb": 0.7527278381459811
+                },
+                {
+                    "title": "William Shakespeare",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/William_Shakespeare",
+                    "cosine": 0.02522229402407049,
+                    "linkCount": 1,
+                    "pageRank": 0.01463298206111466,
+                    "prbConfidence": 0.1296649495372041,
+                    "linPr": 0.6973684210526315,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "Offenbarung des Johannes",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Offenbarung_des_Johannes",
+                    "cosine": 0.02416071691810533,
+                    "linkCount": 1,
+                    "pageRank": 0.008069906473537976,
+                    "prbConfidence": 0.07150859690055207,
+                    "linPr": 0.5394736842105263,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "Diktatur",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Diktatur",
+                    "cosine": 0.02326612431131601,
+                    "linkCount": 1,
+                    "pageRank": 0.01824315182276569,
+                    "prbConfidence": 0.1616551807839963,
+                    "linPr": 0.7763157894736842,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "\\u00dcbersetzer",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/%c3%9cbersetzer",
+                    "cosine": 0.01234529511249629,
+                    "linkCount": 1,
+                    "pageRank": 0.006371955613381529,
+                    "prbConfidence": 0.05646281117626704,
+                    "linPr": 0.4078947368421053,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "Eduard I. (England)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Eduard_I%2e_(England)",
+                    "cosine": 0.02285315573123417,
+                    "linkCount": 1,
+                    "pageRank": 0.0106442591209977,
+                    "prbConfidence": 0.09432030436590007,
+                    "linPr": 0.618421052631579,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "\\u00d6kotrophologie",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/%c3%96kotrophologie",
+                    "cosine": 0.0174236085237049,
+                    "linkCount": 1,
+                    "pageRank": 6.805822325358715E-4,
+                    "prbConfidence": 0.006030736624231139,
+                    "linPr": 0.1842105263157895,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "Streusiedlung",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Streusiedlung",
+                    "cosine": 0.003121106237381204,
+                    "linkCount": 1,
+                    "pageRank": 0.001192119544528616,
+                    "prbConfidence": 0.01056354199971205,
+                    "linPr": 0.2236842105263158,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "Yale University",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Yale_University",
+                    "cosine": 0.03246861606530728,
+                    "linkCount": 1,
+                    "pageRank": 0.02197623270730484,
+                    "prbConfidence": 0.1947345450919983,
+                    "linPr": 0.8157894736842105,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634,
+                    "score2": 0.02197623270730484,
+                    "isBestCand": true
+                },
+                {
+                    "title": "Basler Zeitung",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Basler_Zeitung",
+                    "cosine": 0.0153925037025432,
+                    "linkCount": 1,
+                    "pageRank": 0.00978225919646731,
+                    "prbConfidence": 0.08668199959326423,
+                    "linPr": 0.5921052631578947,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "Improvisation (Musik)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Improvisation_(Musik)",
+                    "cosine": 0.01631528274196435,
+                    "linkCount": 1,
+                    "pageRank": 0.006426773190678441,
+                    "prbConfidence": 0.05694855757876174,
+                    "linPr": 0.4210526315789473,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "Liste der IPA-Zeichen",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Liste_der_IPA-Zeichen",
+                    "cosine": 0.006992758598461026,
+                    "linkCount": 1,
+                    "pageRank": 0.004713151300396675,
+                    "prbConfidence": 0.04176390861239051,
+                    "linPr": 0.3421052631578947,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "AOM",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/AOM",
+                    "cosine": 0.001462362711170279,
+                    "linkCount": 1,
+                    "pageRank": 9.263968839052133E-8,
+                    "prbConfidence": 8.208935451523568E-7,
+                    "linPr": 0.0131578947368421,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "Niederungsburg",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Niederungsburg",
+                    "cosine": 0.006915651701784252,
+                    "linkCount": 1,
+                    "pageRank": 8.626858878757634E-4,
+                    "prbConfidence": 0.007644383192071516,
+                    "linPr": 0.1973684210526316,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                },
+                {
+                    "title": "Georg III. (Brieg)",
+                    "url": "http:\\/\\/de.wikipedia.org\\/wiki\\/Georg_III%2e_(Brieg)",
+                    "cosine": 0.01395062604986102,
+                    "linkCount": 1,
+                    "pageRank": 0.006546231350453812,
+                    "prbConfidence": 0.05800709343935315,
+                    "linPr": 0.4473684210526316,
+                    "linkProb": 0.04545454545454546,
+                    "logLinkProb": 0.2444364758862634
+                }
+            ],
+            "nCandsIgnoredDueToLowLinkCount": 0,
+            "nCandsIgnoredDueToLowRelLinkCount": 0,
+            "nCandsIgnoredDueToWikiDataClass": 0
+        }
+    ],
+    "minPageRank": 2.191815977120971E-4,
+    "maxDfThreshold": -1,
+    "altLabelSetsUsed": [],
+    "linkSourcesAvailable": true,
+    "timeTotalMs": 25.583,
+    "timeAnnotationMs": 22.773,
+    "timeBuildJsonMs": 0,
+    "incIdxTimestampUtc": "",
+    "fnRegIdx": "dewiki-20190201-pages-articles-index3.bin",
+    "fnWikiData": "wikidata-20190128-all.bin",
+    "settings": {
+        "pageRankSqThreshold": -1,
+        "applyPageRankSqThreshold": false,
+        "minPMentionGivenPhrase": 0,
+        "maxMentionEntropy": -1,
+        "maxTargetsPerMention": 20,
+        "useLogLinkCounts": false,
+        "candSelectionUseLinearizedPageRank": false,
+        "candSelectionPageRankThreshold": 2,
+        "candSelectionCosineWeight": 0,
+        "candSelectionLinkCtxCosineWeight": 0,
+        "candSelectionUseLinkProb": "no",
+        "semanticSimilarity": "in",
+        "secondaryAnnotLanguage": "en",
+        "minLinkFrequency": 1,
+        "minLinkRelFrequency": 0,
+        "nTopDfWordsToIgnore": 0,
+        "nWordsToIgnoreFromList": -1,
+        "extraVocabsToInclude": [],
+        "altLabelSetsToUse": []
+    },
+    "language": "de"
+}

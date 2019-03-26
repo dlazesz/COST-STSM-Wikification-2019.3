@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="deu001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Clementine : ELTeC edition</title>
+            <author ref="http://d-nb.info/gnd/pnd:118572393">Lewald, Fanny (1811-1889)</author>
+            <respStmt>
+               <resp>ELTeC conversion</resp>
+               <name>Leonard Konle</name>
+            </respStmt>
+         </titleStmt>
+         <extent>
+            <measure unit="words">39930</measure>
+            <measure unit="pages">145</measure>
+         </extent>
+         <publicationStmt>
+            <p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <title>Clementine</title>
+               <idno>Text ID 234</idno>
+               <publisher>Textgrid</publisher>
+               <ref target="textgrid:rm5j.0"/>
+               <respStmt>
+                  <resp>Digitale Edition</resp>
+                  <name>Insert missing name</name>
+               </respStmt>
+               <relatedItem type="source">                 
+                  <bibl type="firstEdition">
+                     <title>Clementine</title>
+                     <author>Lewald, Fanny</author>
+                     <date>1842</date>
+                  </bibl>
+               </relatedItem>
+               <!-- converted from TextGrid (textgrid:rm5j.0) via Kallimachos: +234+ -->
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc n="eltec-1">
+         <p/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">German</language>
+         </langUsage>
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+         </textDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
+      </revisionDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <div type="chapter">
+
+            <p>Clementine selbst lebte von da ab nur in der Erinnerung an Robert; Alles, was ihr
+               begegnete, was sie that, wurde im Geiste Robert's Urtheil unterworfen, der, um
+               mehrere Jahre älter als sie, einen wesentlichen Einfluß auch auf ihre geistige
+               Richtung ausgeübt hatte. Sie liebte Alles, was seinem Willen angemessen schien,
+               verwarf <pb/> Alles, was gegen seine Ansichten sein konnte, und lebte getrennt von
+               ihm, mitten in der Gesellschaft, doch ganz allein mit dem fernen Geliebten; wie jene
+               Nonnen, die, sich beständig unter den Augen ihres himmlischen Bräutigams wähnend, nur
+               seinem Willen leben und kein anderes Gesetz kennen als das seine. Die Liebe zu dem
+               Abwesenden war ein religiöser Cultus in ihrer Brust, und selbst der Gedanke, es könne
+               ihr jemals möglich sein, den dringenden Bewerbungen anderer Männer die geringste
+               Aufmerksamkeit zu gönnen, fiel ihr nie ein. Sie war den Ihrigen ergeben, half der
+               Tante treulich die schöne Marie erziehen und bildete rastlos an sich fort, damit
+               Robert, wenn er einst wiederkäme, sie nicht unter seinen Erwartungen fände.</p>
+            <p>So waren ein paar Jahre vergangen, die kleine Marie war zu einem reizenden Mädchen
+               herangewachsen und das harmloseste, unbefangenste Kind geblieben. Ihre Familie, ihre
+               Toilette, die Bälle, Heidelberg, ihre kleinen Abenteuer von gestern, das war die Welt, die sie
+               kannte; man liebte sie allgemein und was konnte sie noch wünschen? Sie war das
+               verzogene Kind des Hauses. Bald nach ihrem sechszehnten Geburtstage hatte Professor
+               Reich um ihre Hand geworben, hatte die Zustimmung des Vaters erhalten und die kleine
+               Braut war mit der Myrthenkrone und dem weißen Schleier zum Altare mit demselben
+               Gefühle gegangen, mit dem sie ein Jahr vorher, am Tage ihrer Confirmation, die Kirche
+               betreten hatte. Sie hatte das Bewußtsein eines wichtigen Schrittes, ohne sich die
+               Folgen desselben klar zu machen; und nachdem der schwere Abschied von Vater,
+               Schwester und Tante vorüber war, folgte sie ihrem Manne, froh <pb/> und sorglos wie
+               ein Kind, nach Heidelberg, wo er angestellt war.</p>
+     
+         </div>
+      </body>
+   </text>
+</TEI>
