@@ -21,17 +21,33 @@ def init_trie():
         csvreader = csv.reader(fh, delimiter=',', quotechar='"')
         for n, (wikidata_id, name, alias) in enumerate(csvreader):
             wikidata_id = wikidata_id.rsplit('/', maxsplit=1)[1]
-            # Modify trie
-            if name in trie:
-                trie[name].append(wikidata_id)
-            else:
-                trie[name] = [wikidata_id]
-            if alias in trie:
-                trie[alias].append(wikidata_id)
-            else:
-                trie[alias] = [wikidata_id]
+            # modify_trie(trie, wikidata_id, name)
+            # modify_trie(trie, wikidata_id, alias)
+            # Also add partial names...
+            add_parts(trie, wikidata_id, name)
+            add_parts(trie, wikidata_id, alias)
 
     return trie
+
+
+def modify_trie(trie, wikidata_id, name):
+    if name in trie:
+        trie[name].add(wikidata_id)
+    else:
+        trie[name] = {wikidata_id}
+
+
+def add_parts(trie, wikidata_id, name):
+    if ' ' in name:
+        name_parts = name.split(' ')
+        for i in range(len(name_parts) + 1):
+            for j in range(i + 1, len(name_parts) + 1):
+                name_part = name_parts[i:j]
+                partial_name = ' '.join(name_part)
+                if len(partial_name) == 0:
+                    continue
+                if partial_name not in {'el', 'a', 'az', 'A', 'I.', 'II.', 'Az'} and partial_name[0].isupper():  # TODO Stopword filtering
+                    modify_trie(trie, wikidata_id, partial_name)
 
 
 def bert_stuff(buff, inp_texts):
@@ -55,19 +71,21 @@ def bert_stuff(buff, inp_texts):
 
 @lru_cache(maxsize=10000)
 def get_texts_from_wikipedia_for_entities(cands):
-    resp = requests.get('https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&props=sitelinks&'
-                        'ids={0}&sitefilter=huwiki'.format('|'.join(cands)))
-    json_resp = resp.json()
-    if json_resp['success'] != 1:
-        print('Problem!', json_resp)
-        exit(1)
-
+    n = 45  # Maximum is 50
     ent_title_dict = {}
-    for ent_name, ent_desc in json_resp['entities'].items():
-        try:
-            ent_title_dict[ent_name] = ent_desc['sitelinks']['huwiki']['title']
-        except KeyError:
-            pass
+    for cands_chunk in (cands[i:i + n] for i in range(0, len(cands), n)):
+        resp = requests.get('https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&props=sitelinks&'
+                            'ids={0}&sitefilter=huwiki'.format('|'.join(cands_chunk)))
+        json_resp = resp.json()
+        if json_resp['success'] != 1:
+            print('Problem!', json_resp)
+            exit(1)
+
+        for ent_name, ent_desc in json_resp['entities'].items():
+            try:
+                ent_title_dict[ent_name] = ent_desc['sitelinks']['huwiki']['title']
+            except KeyError:
+                pass
 
     ent_text_dict = {}
     for ent, title in ent_title_dict.items():
@@ -102,8 +120,6 @@ def disambiguate(sent, buff, candidates):
 def find_ne_in_text(trie, test):
     buffer = []
     for i, word in enumerate(test.split()):
-        if word == 'Abe':
-            print('here')
         buffer.append(word)
         joined = ' '.join(buffer)
         if trie.has_subtrie(joined):
@@ -112,10 +128,11 @@ def find_ne_in_text(trie, test):
             print('_'.join(buffer), disambiguate(test, buffer, trie[joined]), sep=' (', end=') ')
             buffer = []
         elif len(buffer) > 1:  # TODO backtracking more than one step!!!
-            buffer = buffer[:-1]
-            joined = ' '.join(buffer)
+            buffer2 = buffer[:-1]
+            joined = ' '.join(buffer2)
             if joined in trie:  # Second chance!
-                print('_'.join(buffer), disambiguate(test, buffer, trie[joined]), sep=' (', end=') ')
+                print('_'.join(buffer2), disambiguate(test, buffer2, trie[joined]), sep=' (', end=') ')
+                print(buffer[-1], end=' ')
                 buffer = []
             else:
                 print(*buffer, end=' ')
